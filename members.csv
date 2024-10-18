@@ -1,0 +1,32 @@
+memberID,computingID,memberName,classYear,joinDate,phoneNumber,memberAddress,position
+1000,abc4de,Adam Johnson,2024,2022-09-01,(434) 555-0123,123 Maple St,none
+1001,jkl9mn,Bella Smith,2025,2022-10-15,(540) 555-4567,456 Oak Ave,President
+1002,qrs5tu,Chloe Martin,2026,2023-09-22,(703) 555-8910,789 Pine Rd,none
+1003,vwx7yz,Daniel Lewis,2027,2023-09-05,(757) 555-2345,321 Birch Dr,none
+1004,pqr3gh,Emily Carter,2028,2023-09-10,(804) 555-6789,654 Elm St,none
+1005,lmn6cd,Fiona Clark,2024,2022-10-20,(276) 555-3456,987 Cedar Ct,none
+1006,stu2ij,George Miller,2025,2021-12-01,(434) 555-7890,135 Spruce Ln,Vice President
+1007,fgh9ab,Hannah Davis,2027,2023-09-15,(540) 555-1234,246 Willow Way,none
+1008,qwe4lk,Ian Walker,2026,2023-10-28,(703) 555-5678,357 Ash Blvd,none
+1009,rty6ui,Jessica Turner,2028,2023-09-14,(804) 555-9012,468 Walnut Pl,none
+1010,zxc7op,Kevin Hughes,2025,2022-11-30,(718) 555-3456,579 Cherry Ln,none
+1011,vbn3rt,Laura Baker,2027,2023-10-12,(212) 555-7891,680 Poplar St,none
+1012,mkl2py,Michael Scott,2026,2023-09-18,(646) 555-0124,791 Hickory Ave,Treasurer
+1013,ghj9mn,Natalie Evans,2024,2022-12-15,(917) 555-2346,802 Chestnut Rd,none
+1014,opl8cd,Olivia Foster,2028,2023-11-05,(646) 555-6780,913 Dogwood Dr,none
+1015,ert5ab,Patrick Gray,2025,2021-09-25,(202) 555-3457,024 Fir Ct,none
+1016,bnm6yu,Quentin Adams,2027,2023-11-22,(303) 555-8901,135 Pecan Ln,none
+1017,poi4tr,Rachel Brooks,2024,2022-10-05,(212) 555-5679,246 Larch Way,Secretary
+1018,qaz3wx,Sarah Hill,2026,2023-12-01,(914) 555-2347,357 Redwood Blvd,none
+1019,lpo7vn,Thomas Edwards,2028,2023-09-07,(804) 555-6781,468 Sycamore Pl,none
+1020,xdf2et,Ursula Knight,2025,2021-10-30,(703) 555-0125,579 Magnolia St,none
+1021,zsw6cv,Victor Lane,2026,2023-11-14,(434) 555-4568,680 Hemlock Ave,none
+1022,yui8lk,Wendy Morris,2024,2023-09-30,(540) 555-8902,791 Juniper Rd,none
+1023,mnb9yu,Xavier Nelson,2027,2023-11-15,(757) 555-6782,802 Acorn Dr,Event Coordinator
+1024,tre4gh,Yasmin Brien,2025,2023-10-12,(804) 555-1235,913 Hazel Ct,none
+1025,lop7jk,Zoe Parker,2028,2023-12-08,(434) 555-7892,024 Oakwood Ln,none
+1026,fgj3mn,Brian Cook,2026,2023-09-18,(718) 555-0126,135 Sprout Way,none
+1027,vcx5tu,Claire Thompson,2024,2022-09-10,(540) 555-4569,246 Thicket Blvd,none
+1028,wqr9za,David Young,2027,2023-10-25,(917) 555-8911,357 Grove Pl,none
+1029,hty6po,Eleanor King,2025,2023-09-05,(276) 555-6783,468 Meadow St,none
+1030,rft9mk,Frank Richardson,2026,2023-09-30,(804) 555-1111,579 Meadowlark Ave,Social Chair
