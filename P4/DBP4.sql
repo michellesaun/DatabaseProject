@@ -1,4 +1,5 @@
 -- P3 submission
+-- P4 submission begins at line 348
 
 CREATE TABLE Club ( 
    clubID INT PRIMARY KEY,
