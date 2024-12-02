@@ -207,7 +207,7 @@ CREATE TABLE Donation(
     sponsorID INT NOT NULL,
     amount INT NOT NULL CHECK (amount >= 0),
     donationDATE DATE,
-    CONSTRAINT donationFK FOREIGN KEY(sponsorID) REFERENCES Sponsor(sponsorID),
+    CONSTRAINT donationFK FOREIGN KEY(sponsorID) REFERENCES Sponsor(sponsorID) ON DELETE CASCADE,
 );
 
 INSERT INTO Donation(donationID, amount, sponsorID, donationDATE)VALUES
